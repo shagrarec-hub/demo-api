@@ -53,3 +53,4 @@ pytest test_app.py -v
 - Flask
 - Python 3.9+
 - Local Ollama models (no cloud)
+# Demo API - built with local Ollama models
